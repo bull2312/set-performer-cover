@@ -1,0 +1,6 @@
+name: Set Performer Cover
+description: Adds a "Set as performer cover" button to the image page (next to the Details / File Info / Edit tabs) that makes the current image the cover of the image's performer.
+version: 1.0.0
+ui:
+  javascript:
+    - set_performer_cover.js
